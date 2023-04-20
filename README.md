@@ -6,7 +6,7 @@ Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
 ## Apple
 
-Donderdag 20 april
+**Donderdag 20 april**
 
 Ik heb de website van het bedrijf Apple getest. 
 https://www.apple.com/
