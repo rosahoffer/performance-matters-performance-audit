@@ -4,9 +4,14 @@
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## Apple
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Donderdag 20 april
+
+Ik heb de website van het bedrijf Apple getest. 
+https://www.apple.com/
+![Schermafbeelding 2023-04-20 om 15 00](https://user-images.githubusercontent.com/112861375/233375313-2330c210-a301-4a5b-88fc-bb237f8651b2.png)
+
 
 Toon een screenshot van de performance test.
 
